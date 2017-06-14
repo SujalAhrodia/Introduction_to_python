@@ -1,2 +1,3 @@
 # Introduction_to_python
-Basics of python
+This repository consists of the basic programs which will help you get alogg with python.
+
