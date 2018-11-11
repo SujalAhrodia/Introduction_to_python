@@ -8,5 +8,4 @@ solutions to the lessons on udacity.
     draw_fractal: draws fractal triangle of desired depth
     send_sms: sends anonymous texts(looking for a better alternative)
 
-Enjoy!
 
